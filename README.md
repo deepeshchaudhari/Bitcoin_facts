@@ -1,4 +1,4 @@
-# Bitcoin_facts
+# Bitcoin_facts and some books
 Some basic information about bitcoin Blockchain
 1) Bitcoin addresses are case sensitive
 2) Bitcoin address of acccount can be change with every transaction
